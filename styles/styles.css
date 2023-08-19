@@ -16,8 +16,6 @@ body{
     margin-top: 30px;
 }
 
-
-
 .img-fluid {
     height: 100%;
 }
@@ -69,6 +67,9 @@ body{
 }
 
 .card-price {
+
+display: inline-flex;
+gap: 16px;
 
 margin-bottom: 30px;
 
