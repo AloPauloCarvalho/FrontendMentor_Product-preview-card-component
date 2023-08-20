@@ -85,7 +85,7 @@
   font-size: 1rem;
 }
 
-.btn:is(:hover :focus){
+.btn:hover {
   background-color: hsl(158, 36%, 20%); 
 }
 
