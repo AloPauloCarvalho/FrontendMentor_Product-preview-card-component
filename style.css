@@ -25,7 +25,7 @@
   }
 
   html, body {
-    height: 80vh;
+    height: 100%;
   }
 
   body {
@@ -125,6 +125,7 @@ body {
 
 
   max-width: 600px;
+  max-height: 450px;
 
   display: grid;
   background-color: var(--clr-neutral-100);
