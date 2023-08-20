@@ -86,7 +86,7 @@
 }
 
 .btn:is(:hover :focus){
-  background-color: var(--clr-primary-500); 
+  background-color: hsl(158, 36%, 20%); 
 }
 
 .btn[data-icon="shopping-cart"]::before{
