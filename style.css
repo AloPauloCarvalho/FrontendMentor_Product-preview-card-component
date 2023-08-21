@@ -151,7 +151,6 @@ body {
 @media (max-width: 400px){
   .product-card{
     max-width: 300px;
-    padding: 1.5rem;
     --card-body-spacing: .025rem;
   }
 }
