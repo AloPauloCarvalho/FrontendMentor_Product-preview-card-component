@@ -163,8 +163,15 @@ body {
     height: 80vh;
     --card-body-spacing: .025rem;
   }
-}
 
+  .product-title{
+    font-size: 1rem;
+  }
+  
+  .product-price{
+    font-size: 1rem;
+  }
+}
 
 .product-card-body {
   display: grid;
