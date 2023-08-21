@@ -200,6 +200,9 @@ p{
   
   .product-price{
     font-size: 2rem;
+  }
+
+  .product-price-flex-group{
     margin: .25rem;
   }
 
