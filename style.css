@@ -34,7 +34,6 @@
   }
 
   img, picture, video, canvas, svg {
-    display: grid;
     max-width: 100%;
   }
 
@@ -104,7 +103,7 @@
 body {
   font-family: var(--ff-regular);
   font-weight: var(--fw-regular);
-  font-size: 1rem;
+
   color: var(--clr-neutral-400);
   background-color: var(--clr-secondary-200);
 
@@ -112,6 +111,10 @@ body {
   place-content: center;
 
   margin: 1rem;
+}
+
+.p{
+  font-size: 0.25rem;
 }
 
 .product-price-flex-group{
@@ -180,7 +183,6 @@ body {
 
   .body{
     margin:1.25rem;
-    font-size: 0.25rem;
   }
 
   .product-card{
