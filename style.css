@@ -155,7 +155,7 @@ body {
   }
 
   .product-card-img{
-    min-height: 40vh;
+    min-height: 100%;
   }
 
   .product-card{
