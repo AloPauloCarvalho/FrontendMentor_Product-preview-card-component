@@ -152,6 +152,7 @@ body {
 
   .body{
     font-size: 0.25rem;
+    margin:1.25rem;
   }
 
   .product-card-img{
@@ -165,11 +166,11 @@ body {
   }
 
   .product-title{
-    font-size: 1rem;
+    font-size: .5rem;
   }
   
   .product-price{
-    font-size: 1rem;
+    font-size: .5rem;
   }
 }
 
