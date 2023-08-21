@@ -179,7 +179,7 @@ body {
 @media (max-width: 390px){
 
   .body{
-    font-size: 0.25rem;
+    font-size: 0.5rem;
     margin:1.25rem;
   }
 
@@ -190,10 +190,10 @@ body {
   }
 
   .product-title{
-    font-size: .5rem;
+    font-size: 1rem;
   }
   
   .product-price{
-    font-size: .5rem;
+    font-size: 1rem;
   }
 }
