@@ -154,6 +154,10 @@ body {
     font-size: 0.75rem;
   }
 
+  .product-card-img{
+    min-height: 40vh;
+  }
+
   .product-card{
     max-width: 300px;
     height: 80vh;
