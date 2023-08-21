@@ -113,8 +113,8 @@ body {
   margin: 1rem;
 }
 
-.p{
-  font-size: 0.25rem;
+p{
+  font-size: 1rem;
 }
 
 .product-price-flex-group{
@@ -186,7 +186,7 @@ body {
   }
 
   p{
-    font-size: 0.5rem;
+    font-size: .8rem;
   }
 
   .product-card{
