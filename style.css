@@ -191,7 +191,6 @@ p{
 
   .product-card{
     max-width: 300px;
-    --card-body-spacing: .025rem;
   }
 
   .product-title{
@@ -199,10 +198,7 @@ p{
   }
   
   .product-price{
-    font-size: 1.75rem;
+    font-size: 2rem;
   }
 
-  .product-card-body {
-    gap: var(--card-body-spacing);
-  }
 }
