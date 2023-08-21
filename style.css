@@ -203,7 +203,7 @@ p{
   }
 
   .product-price-flex-group{
-    margin: .25rem;
+    margin-top: -.25rem;
   }
 
   .product-card-body {
