@@ -148,7 +148,7 @@ body {
   }
 }
 
-@media (max-width: 400px){
+@media (max-width: 350px){
 
   .body{
     font-size: 0.5rem;
