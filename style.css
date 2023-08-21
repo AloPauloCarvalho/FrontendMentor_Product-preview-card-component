@@ -137,7 +137,6 @@ body {
 }
 
 .product-card-img{
-  display: flex;
   min-height: 100%;
 }
 
